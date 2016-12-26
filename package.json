@@ -1,0 +1,27 @@
+{
+  "name": "toy problem - solution branch",
+  "version": "1.0.0",
+  "description": "solutions for all items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofthecross/toryProblems.git"
+  },
+  "keywords": [
+    "toy",
+    "problems"
+  ],
+  "author": "mofthecross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mofthecross/toryProblems/issues"
+  },
+  "homepage": "https://github.com/mofthecross/toryProblems#readme",
+  "devDependencies": {
+  "es6datastructures": "git://github.com/mofthecross/ES6DataStructures.git",
+  "chai": "^3.5.0"
+  }
+}
