@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/mofthecross/toryProblems#readme",
   "devDependencies": {
-  "es6datastructures": "git://github.com/mofthecross/ES6DataStructures.git",
-  "chai": "^3.5.0"
+  "es6datastructures": "git://github.com/mofthecross/ES6DataStructures.git"
   }
 }
